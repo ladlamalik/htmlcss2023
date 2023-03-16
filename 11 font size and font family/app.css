@@ -1,3 +1,12 @@
 h1 {
   font-family: sans-serif;
+  font-size: 60px;
+  font-weight: normal;
+  text-align: center;
 }
+a {
+  font-style: italic;
+}
+
+/*text alignment*/
+
