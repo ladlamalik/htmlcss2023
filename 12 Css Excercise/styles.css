@@ -2,6 +2,7 @@ h1 {
   font-size: 60px;
   text-align: center;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-shadow: #e032f7 4px 10px 10px;
 }
 h2 {
   font-size: 50px;
@@ -20,3 +21,7 @@ p {
   line-height: 2;
   letter-spacing: 10px;
 }
+
+/* text shadow */
+
+
