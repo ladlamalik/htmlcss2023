@@ -1,0 +1,14 @@
+body {
+  font-family: Montserrat, sans-serif;
+}
+
+a{
+  color: olive;
+}
+a:visited{
+  color: orangered;
+}
+
+a:hover{
+  color: magenta;
+}
