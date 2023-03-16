@@ -1,12 +1,16 @@
 h1 {
-  font-family: sans-serif;
+  font-family: poppins, sans-serif;
   font-size: 60px;
   font-weight: normal;
   text-align: center;
+  letter-spacing: 12px;
 }
 a {
   font-style: italic;
 }
-
+p{
+  /* word-spacing: 20px; */
+  line-height: 2.5;
+}
 /*text alignment*/
 
