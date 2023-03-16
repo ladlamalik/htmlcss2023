@@ -1,0 +1,22 @@
+h1 {
+  font-size: 60px;
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h2 {
+  font-size: 50px;
+  font-style: italic;
+  color: #e032f7;
+}
+h3 {
+  font-family: 'Indie Flower';
+  color: #f7329e;
+  font-size: 35px;
+}
+p {
+  font-family: inter;
+  font-weight: 100;
+  font-size: 40px;
+  line-height: 2;
+  letter-spacing: 10px;
+}
