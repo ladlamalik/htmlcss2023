@@ -4,13 +4,16 @@ h1 {
   font-weight: normal;
   text-align: center;
   letter-spacing: 12px;
+  font-weight: 900;
 }
 a {
   font-style: italic;
 }
-p{
+p {
   /* word-spacing: 20px; */
   line-height: 2.5;
 }
+body {
+  font-family: 'Inter', sans-serif;
+}
 /*text alignment*/
-
