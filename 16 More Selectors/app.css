@@ -1,0 +1,15 @@
+/* * {
+  margin: 0;
+  padding: 0;
+} */
+
+input[type='number'] {
+  background-color: gold;
+}
+
+a[href*="wiki"] {
+  color: cyan;
+}
+a[href^="#"]{
+  color: red;
+}
