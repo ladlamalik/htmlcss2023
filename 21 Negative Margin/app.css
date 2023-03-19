@@ -1,0 +1,13 @@
+#container {
+  border: 1px solid purple;
+  background-color: lavenderblush;
+  height: 400px;
+  width: 400px;
+}
+
+#container h3 {
+  text-align: center;
+  border: 1px solid black;
+  width: 250px;
+  margin: 0 auto;
+}
