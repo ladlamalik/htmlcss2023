@@ -1,0 +1,16 @@
+.box {
+  border: 2px solid olive;
+  height: 300px;
+  width: 300px;
+  font-size: 40px;
+  margin: 0 auto;
+  overflow: scroll;
+}
+
+span{
+  background-color: red;
+  width: 400px;
+}
+h2{
+  background-color: red;
+}
