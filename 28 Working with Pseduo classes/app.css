@@ -1,0 +1,14 @@
+/* p::first-line {
+  color: blue;
+  text-transform: uppercase;
+} */
+
+p::first-letter{
+    color: blue;
+    text-transform: uppercase;
+    font-size: 40px;
+  }
+  p::selection{
+    color: blue;
+    background-color: yellow;
+  }
