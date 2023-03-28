@@ -1,0 +1,23 @@
+.btn {
+  border: 2px solid black;
+  padding: 10px 20px;
+  display: inline-block;
+  margin-top: 30;
+  transition: transform 3s ease-in;
+}
+
+.btn:hover {
+  transform: translateX(100px);
+}
+.btn2 {
+  border: 2px solid black;
+  padding: 10px 20px;
+  display: inline-block;
+  margin-top: 30;
+  transition: transform 3s ease-out;
+  margin-top: 10px;
+}
+
+.btn2:hover {
+  transform: translateX(100px);
+}
