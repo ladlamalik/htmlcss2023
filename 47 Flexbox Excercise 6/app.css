@@ -1,0 +1,28 @@
+h1 {
+  font-size: 5rem;
+  text-align:center;
+}
+.container  {
+  /* background-color: #283593; */
+  margin: 0 auto;
+  width: 70%;
+  height: 1000px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border: 4px solid black
+  
+}
+
+
+.sidebar {
+  background-color: purple;
+  flex-grow: 1;
+}
+
+p{
+  background-color: seagreen;
+  margin: 0;
+  width: 600px;
+  flex-grow: 2;
+}
