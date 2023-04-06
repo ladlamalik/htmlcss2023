@@ -14,10 +14,16 @@ body {
   border-radius: 5px;
   width: 400px;
   margin: 0 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 10px;
 }
 
 .card footer {
   background-color: slateblue;
   color: white;
   padding: 20px;
+margin-top: auto;
+text-align: center;
 }
